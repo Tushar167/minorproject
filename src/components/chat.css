@@ -1,0 +1,11 @@
+.chatdiv{
+padding-left: 40%;
+padding-top: 2%;
+padding-right: 40%;
+}
+
+.chat__content{
+    display: flex;
+justify-content: space-between;
+margin-top: 50px;
+}
